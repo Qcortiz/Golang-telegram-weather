@@ -45,3 +45,5 @@ type Fire struct {
 	HaveFire bool `json:"have-fire"` // можно ли сделать так?
 	TwoFire  int  `json:"two-fire"`
 }
+
+//ghbft
